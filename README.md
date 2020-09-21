@@ -1,0 +1,2 @@
+# Beach-Surviellance-System
+I did my last year project defined as “beach surveillance system “using python, Flask structure, SQL and used concepts of RDBMS. Used YOLO (which used for real time object detection) to sense that the person is in danger or drowning. For build an application which helps to monitor each person who are in the beach or near the beach, we used Pycharm, MySQL Database and PYTHON for this application
